@@ -1,0 +1,17 @@
+[
+    {
+        "title": "PrivacyGuard360",
+        "description": "PrivacyGuard360 is a comprehensive identity theft protection service that helps protect you from fraud and identity theft. It includes credit monitoring, identity monitoring, and identity theft insurance.",
+        "image": "../../../public/images/fingerprint.svg"
+    },
+    {
+        "title": "SecureData Masking Tool",
+        "description": "SecureData Masking Tool is a data masking tool that helps protect sensitive data by replacing, scrambling, or encrypting it. It can be used to protect data in databases, files, and other data sources.",
+        "image": "../../../public/images/fingerprint.svg"
+    },
+    {
+        "title":"Data Subject Rights Management Platform",
+        "description":"Data Subject Rights Management Platform is a platform that helps organizations manage and respond to data subject requests, such as requests for access, rectification, erasure, and portability of personal data. It can help organizations comply with data protection regulations, such as the GDPR.",
+        "image": "../../../public/images/fingerprint.svg"
+    }
+]
